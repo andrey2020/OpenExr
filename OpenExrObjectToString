@@ -1,0 +1,199 @@
+####
+OpenEXR Object
+Image Data size: 38205
+Magic Number: 20000630
+File format version: 2
+Flag 9 (singleTileBit): false
+Flag 10 (longNameBit): false
+Flag 11 (nonImageBit): false
+Flag 12 (multiPartBit): true
+############ Attribute Section START ############
+*********Part number: 1*********
+Name: BlenderMultiView
+Type: string
+Size: 23
+Value: Blender V2.73 and newer
+-------------------------------------------------
+Name: channels
+Type: chlist
+Size: 73
+Value: [Channel list]
+	________________
+	Channel name: A
+	Pixel type: FLOAT
+	pLinear: false
+	xSampling: 1
+	ySampling: 1
+	________________
+	Channel name: B
+	Pixel type: FLOAT
+	pLinear: false
+	xSampling: 1
+	ySampling: 1
+	________________
+	Channel name: G
+	Pixel type: FLOAT
+	pLinear: false
+	xSampling: 1
+	ySampling: 1
+	________________
+	Channel name: R
+	Pixel type: FLOAT
+	pLinear: false
+	xSampling: 1
+	ySampling: 1
+
+-------------------------------------------------
+Name: chunkCount
+Type: int
+Size: 4
+Value: 16
+-------------------------------------------------
+Name: compression
+Type: compression
+Size: 1
+Value: 3 ZIP_COMPRESSION
+-------------------------------------------------
+Name: dataWindow
+Type: box2i
+Size: 16
+Value: xMin=0, yMin=0, xMax=255, yMax=255, 
+-------------------------------------------------
+Name: displayWindow
+Type: box2i
+Size: 16
+Value: xMin=0, yMin=0, xMax=255, yMax=255, 
+-------------------------------------------------
+Name: lineOrder
+Type: lineOrder
+Size: 1
+Value: 0 INCREASING_Y
+-------------------------------------------------
+Name: name
+Type: string
+Size: 16
+Value: scanlineimage0_1
+-------------------------------------------------
+Name: pixelAspectRatio
+Type: float
+Size: 4
+Value: 1,000000E+00
+-------------------------------------------------
+Name: screenWindowCenter
+Type: v2f
+Size: 8
+Value: x=0.0, y=0.0, 
+-------------------------------------------------
+Name: screenWindowWidth
+Type: float
+Size: 4
+Value: 1,000000E+00
+-------------------------------------------------
+Name: type
+Type: string
+Size: 13
+Value: scanlineimage
+-------------------------------------------------
+Name: view
+Type: string
+Size: 4
+Value: left
+-------------------------------------------------
+************END PART************
+*********Part number: 2*********
+Name: BlenderMultiView
+Type: string
+Size: 23
+Value: Blender V2.73 and newer
+-------------------------------------------------
+Name: channels
+Type: chlist
+Size: 73
+Value: [Channel list]
+	________________
+	Channel name: A
+	Pixel type: FLOAT
+	pLinear: false
+	xSampling: 1
+	ySampling: 1
+	________________
+	Channel name: B
+	Pixel type: FLOAT
+	pLinear: false
+	xSampling: 1
+	ySampling: 1
+	________________
+	Channel name: G
+	Pixel type: FLOAT
+	pLinear: false
+	xSampling: 1
+	ySampling: 1
+	________________
+	Channel name: R
+	Pixel type: FLOAT
+	pLinear: false
+	xSampling: 1
+	ySampling: 1
+
+-------------------------------------------------
+Name: chunkCount
+Type: int
+Size: 4
+Value: 16
+-------------------------------------------------
+Name: compression
+Type: compression
+Size: 1
+Value: 3 ZIP_COMPRESSION
+-------------------------------------------------
+Name: dataWindow
+Type: box2i
+Size: 16
+Value: xMin=0, yMin=0, xMax=255, yMax=255, 
+-------------------------------------------------
+Name: displayWindow
+Type: box2i
+Size: 16
+Value: xMin=0, yMin=0, xMax=255, yMax=255, 
+-------------------------------------------------
+Name: lineOrder
+Type: lineOrder
+Size: 1
+Value: 0 INCREASING_Y
+-------------------------------------------------
+Name: name
+Type: string
+Size: 16
+Value: scanlineimage1_1
+-------------------------------------------------
+Name: pixelAspectRatio
+Type: float
+Size: 4
+Value: 1,000000E+00
+-------------------------------------------------
+Name: screenWindowCenter
+Type: v2f
+Size: 8
+Value: x=0.0, y=0.0, 
+-------------------------------------------------
+Name: screenWindowWidth
+Type: float
+Size: 4
+Value: 1,000000E+00
+-------------------------------------------------
+Name: type
+Type: string
+Size: 13
+Value: scanlineimage
+-------------------------------------------------
+Name: view
+Type: string
+Size: 5
+Value: right
+-------------------------------------------------
+************END PART************
+############# Attribute Section END #############
+Offset start position: 965
+Count offsets: 32
+Offset Table[1222, 1621, 2020, 2419, 2818, 3217, 4050, 6027, 9005, 11154, 14897, 15626, 16025, 16424, 16823, 17222, 17621, 17970, 18319, 18668, 19017, 19366, 20472, 23376, 28086, 31361, 35601, 37682, 38031, 38380, 38729, 39078]
+####OpenEXR Object END 
